@@ -1,0 +1,1 @@
+cmd_/u/SysLab/sck42/dice_driver/diceDriver.ko := ld -m elf_i386 -r -m elf_i386  --build-id -o /u/SysLab/sck42/dice_driver/diceDriver.ko /u/SysLab/sck42/dice_driver/diceDriver.o /u/SysLab/sck42/dice_driver/diceDriver.mod.o
